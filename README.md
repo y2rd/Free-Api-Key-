@@ -1,9 +1,13 @@
 # Free API Key
 
-دليل عروض الرصيد المجاني لمزوّدي الذكاء الاصطناعي عبر API.
+A directory of AI API providers offering free credits.
 
-## CrowLLM
+## Free Credit Offers
 
-**العرض:** رصيد مجاني بقيمة 10 دولارات عند التسجيل، بحسب العرض المبلّغ عنه.
+| Provider | Free Credit | Eligibility | Sign Up |
+| :--- | ---: | :--- | :--- |
+| **CrowLLM** | **$10** | New account registration¹ | [Sign up via referral](https://crowllm.com/sign-up?aff=VwIV) |
 
-[سجّل عبر رابط الإحالة](https://crowllm.com/sign-up?aff=VwIV)
+¹ Reported offer. Availability and eligibility may vary.
+
+*The signup link is a referral link.*
